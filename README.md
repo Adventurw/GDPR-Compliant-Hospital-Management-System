@@ -22,16 +22,7 @@ A secure, GDPR-compliant Hospital Management System demonstrating the CIA Triad 
 ## 🚀 Live Demo
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-
-## 📸 Screenshots
-
-| Login Page | Dashboard | Patient Management |
-|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Patients](screenshots/patients.png) |
-
-| Audit Logs | GDPR Management | Activity Graphs |
-|:---:|:---:|:---:|
-| ![Audit](screenshots/audit.png) | ![GDPR](screenshots/gdpr.png) | ![Graphs](screenshots/graphs.png) |
+http://localhost:8501/
 
 ## 🛠️ Technology Stack
 
